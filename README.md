@@ -1,2 +1,1 @@
-# PROYECTO-26
-EL PENDULO DE NEWTON
+# Plantilla 
